@@ -1,5 +1,5 @@
 # Tema:
-Consumo-del-agua![download](https://github.com/user-attachments/assets/384dbd60-9456-4f60-8de4-e20997717599)
+Consumo-del-agua)
 
 ![Figura 1.0](/[download](https://github.com/user-attachments/assets/384dbd60-9456-4f60-8de4-e20997717599)
 /picture.jpg)
