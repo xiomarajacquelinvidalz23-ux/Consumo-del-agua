@@ -1,7 +1,8 @@
 # Tema:
 Consumo-del-agua)
 ![Figura 1.0](/[download](https://github.com/user-attachments/assets/384dbd60-9456-4f60-8de4-e20997717599)
-/picture.jpg)
+/picture.jpg)![download](https://github.com/user-attachments/assets/f00c6144-d33c-4ced-b1cb-d57a6930b97c)
+
 
 
 ## Pregunta a responder con analisis de datos:
