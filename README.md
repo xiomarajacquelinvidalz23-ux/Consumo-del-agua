@@ -21,7 +21,7 @@ hacer conciencia sobre el desperdicio y uso innecesario del consumo del agua
 ## Fuentes de informacion 
 - [[! [imagen 1.0] (https://www.google.com/imgres?q=consumo%20de%20agua&imgurl=https%3A%2F%2Fconcienciaverde.com.mx%2Fwp-content%2Fuploads%2F2024%2F05%2F11024-1024x640.jpg&imgrefurl=https%3A%2F%2Fconcienciaverde.com.mx%2F2022%2F03%2F30%2Fcomo-medir-el-agua-en-el-hogar-consumo-del-- -agua%2F%3Fsrsltid%3DAfmBOoq23H7DHJ7TJoXaIHWDGHX7Vhg8vlfvNRK30Nr9k-UAT4CjzyIk&docid=qAsH8_REiYbTOM&tbnid=sZ4G_GDcKC3-kM&vet=12ahUKEwidtfic1_GPAxVOPUQIHcSuE-kQM3oECBgQAA..i&w=1024&h=640&hcb=2&ved=2ahUKEwidtfic1_GPAxVOPUQIHcSuE-kQM3oECBgQAA)jpg
 - https://www.gob.mx/imta/articulos/mexicanos-por-encima-del-promedio-mundial-en-consumo-de-agua
--https://www.kaggle.com/datasets/atharvasoundankar/global-water-consumption-dataset-2000-2024
+- https://www.kaggle.com/datasets/atharvasoundankar/global-water-consumption-dataset-2000-2024
 
 
 
